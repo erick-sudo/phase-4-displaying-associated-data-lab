@@ -28,7 +28,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :development, :test do
-  gem "faker", "~> 2.17"
+  gem "faker", "~> 3.1.1"
   gem 'rspec-rails', '~> 5.0.0'
 end
 
